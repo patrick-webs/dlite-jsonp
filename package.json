@@ -1,7 +1,7 @@
 {
   "name": "dlite-jsonp",
   "description": "JSONP support for use via browserify.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/nshah/dlite-jsonp",
   "author": "Naitik Shah <n@daaku.org>",
   "main": "index.js",
